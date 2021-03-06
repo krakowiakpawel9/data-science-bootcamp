@@ -1,6 +1,6 @@
 ## [e-smartdata.org](https://e-smartdata.org/) - kursy online :computer:
 
-:point_right: [Strona na FB](https://www.facebook.com/esmartdata/)
+:point_right: [Strona na FB](https://www.facebook.com/esmartdata/)  
 :point_right: [Grupa na FB](https://www.facebook.com/groups/esmartdata/)
   
 ### REKOMENDOWANE ŚCIEŻKI UCZENIA
