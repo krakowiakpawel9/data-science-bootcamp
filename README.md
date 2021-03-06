@@ -1,7 +1,9 @@
 ## [e-smartdata.org](https://e-smartdata.org/) - kursy online :computer:
 
 :point_right: [Strona na FB](https://www.facebook.com/esmartdata/)  
-:point_right: [Grupa na FB](https://www.facebook.com/groups/esmartdata/)
+:point_right: [Grupa na FB](https://www.facebook.com/groups/esmartdata/)  
+
+Po kupony zniżkowe zapraszamy do kontaktu poprzez stronę na FB lub mailowo: esmartdataorg@gmail.com.  
   
 ### REKOMENDOWANE ŚCIEŻKI UCZENIA
 
@@ -125,6 +127,6 @@
 ---
 
 Więcej na:
-:heavy_check_mark: https://www.udemy.com/user/krakowiakpawel9/
-:heavy_check_mark: https://e-smartdata.org/
-:heavy_check_mark: https://eduj.pl/autorzy/44
+:heavy_check_mark: https://www.udemy.com/user/krakowiakpawel9/  
+:heavy_check_mark: https://e-smartdata.org/  
+:heavy_check_mark: https://eduj.pl/autorzy/44  
