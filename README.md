@@ -126,7 +126,7 @@ Po kupony zniżkowe zapraszamy do kontaktu poprzez stronę na FB lub mailowo: es
 * [SQL Bootcamp - Hands-On Exercises - SQLite - Part II](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-ii/?referralCode=A12E7493134B4913E53B)
 ---
 
-Więcej na:
+Więcej na:  
 :heavy_check_mark: https://www.udemy.com/user/krakowiakpawel9/  
 :heavy_check_mark: https://e-smartdata.org/  
 :heavy_check_mark: https://eduj.pl/autorzy/44  
